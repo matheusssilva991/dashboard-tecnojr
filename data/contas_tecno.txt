@@ -1,0 +1,21 @@
+Contas a pagar mês de novembro:
+	Terceira parcela da ADV consultoria juridica no valor de R$600,00
+	Taxa de serviço do banco do bradesco no valor de R$126,00
+	NEJ no valor de R$217,00
+
+Contas a pagar futuras:
+	Terceirização do projeto Guia Serve no valor de R$1000,00
+	Pagamento dos membros do projeto Requião advogados R$3800,00
+	Quarta parcela da ADV consultoria juridica no valor de R$600,00
+	Taxa de serviço do banco do bradesco no valor de R$126,00
+	
+Contas a receber mês de novembro: 
+	Quarta parcela do projeto Requião no valor de R$1875,00
+	Primeira parcela do bot de gamificação da ADV no valor de R$425,00
+	Segunda parcela do bot de gamificação da ADV no valor de R$425,00
+
+Contas a receber futuras:
+	Projeto Prefeitura R$15.000,00 (Processo de licitação)
+	Terceira parcela do bot de gamificação da ADV no valor de R$425,00
+	Quarta parcela do bot de gamificação da ADV no valor de R$425,00
+	Quinta parcela do projeto Requião no valor de R$1875,00
