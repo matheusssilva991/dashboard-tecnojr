@@ -1,4 +1,3 @@
-from tkinter import font
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -18,7 +17,7 @@ st.set_page_config(layout="wide")
 
 st.markdown("<h1 style='text-align: center;'>Fluxo de caixa TecnoJR em 2023</h1><br>", unsafe_allow_html=True)
 
-df = pd.read_excel('../data/livro_caixa.xlsx')
+df = pd.read_excel('./data/livro_caixa.xlsx')
 
 total_entradas = df[df['Fluxo de caixa'] == 'Entrada']['Valor'].sum()
 total_saidas = df[df['Fluxo de caixa'] == 'Saída']['Valor'].sum()

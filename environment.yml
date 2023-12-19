@@ -8,4 +8,4 @@ dependencies:
   - seaborn
   - plotly
   - streamlit
-  - tinker
+  - openpyxl
